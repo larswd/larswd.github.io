@@ -21,9 +21,9 @@ repository               : "larswd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lars Willas Dreyer"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him"
   bio              : "I am a PhD student in fluid mechanics at the university of Oslo"
   location         : "Oslo, Norway"
   employer         : "University of Oslo"

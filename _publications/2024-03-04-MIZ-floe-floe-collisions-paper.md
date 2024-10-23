@@ -2,7 +2,7 @@
 title: "Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-03-03-MIZ-floe-floe-collisions-paper
+permalink: /publication/2024-03-04-MIZ-floe-floe-collisions-paper
 excerpt: 'In this article, we present raw acceleration data recovered from a buoy placed on an ice sheet in the arctic marginal ice zone in 2020. We found anomalous and extreme acceleration events in some parts of the recovered data. These events are both phase locked with the wave field and unidirectional, making collisions between ice floes a likely candidate for these events.'
 date: 2024-03-04
 venue: 'arXiv'

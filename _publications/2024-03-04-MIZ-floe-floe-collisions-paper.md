@@ -7,10 +7,8 @@ excerpt: 'In this article, we present raw acceleration data recovered from a buo
 date: 2024-03-04
 venue: 'arXiv'
 paperurl: 'larswd.github.io/pdf/MIZ_ice_collisions_preprint.pdf'
-citation: 'Dreyer et al. (2024). &quot;Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone.&quot; <i>arXiv preprint arXiv:2404.02750</i>. 1(1).'
+citation: 'Dreyer et al. (2024). &quot;Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone.&quot; <i>arXiv preprint arXiv:2404.02750</i>.'
 ---
-
-<h1>Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone <a class="headerlink" href="#Codes" title="Permalink to this headline">¶</a></h1>
 
 <p>The Arctic and Antarctic ice sheets are an important regulator of the global climate. For example, the 
   high albedo of the ice reflects sunlight, slowing global warming. However, these ice sheets are melting, 

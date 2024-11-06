@@ -23,7 +23,7 @@ tags:
 
 
   <figure>
-    <img src="../images/diagram.png"> 
+    <img src="/images/diagram.png"> 
     <figcaption> An illustration showing how the buoys are planned to transmit the data. This artwork is hand-drawn by the site owner. 
     </figcaption>
   </figure>

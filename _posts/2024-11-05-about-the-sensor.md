@@ -13,7 +13,7 @@ tags:
 
 
   <figure>
-    <img src="../images/buoy_float_test.png"> 
+    <img src="/images/buoy_float_test.png"> 
     <figcaption>
     </figcaption>
   </figure>

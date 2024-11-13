@@ -13,6 +13,7 @@ primary research interests are numerical modelling, CFD and sensor electronics. 
 
 ## News and noteworthy events
 ---------
-1. **(16/10-24)** Our article *Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries* has now  been published in Fluids and Barriers of the CNS. [Read it here](https://fluidsbarrierscns.biomedcentral.com/articles/10.1186/s12987-024-00582-0)
-2. **09/04-24** Our article *Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries* is out on biorXiv. [Read it here](https://www.biorxiv.org/content/10.1101/2024.04.08.588508v1.abstract)
-3. **03/04-24** Our article *Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone* is out on arXiv. [Read it here](https://arxiv.org/abs/2404.02750)
+- **(08/11-24)** We performed a successful test of our buoy at Sognsvann. To see a map, [click here]()
+- **(16/10-24)** Our article *Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries* has now  been published in Fluids and Barriers of the CNS. [Read it here](https://fluidsbarrierscns.biomedcentral.com/articles/10.1186/s12987-024-00582-0)
+- **09/04-24** Our article *Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries* is out on biorXiv. [Read it here](https://www.biorxiv.org/content/10.1101/2024.04.08.588508v1.abstract)
+- **03/04-24** Our article *Direct in-situ observations of wave-induced floe collisions in the deeper Marginal Ice Zone* is out on arXiv. [Read it here](https://arxiv.org/abs/2404.02750)

@@ -13,6 +13,7 @@ primary research interests are numerical modelling, CFD and sensor electronics. 
 
 ## News and noteworthy events
 ---------
+- **(06/09-25)** I had the privilege of giving a keynote lecture at the [2025 world hydrocephalus congress](https://hydrocephalus-meeting.com/) in Toulouse, France. The talk was about the general idea behind mathemathical modelling, and how it can be applied to hydrocephalus. You can download my slides [here](../files/dreyerModellingFSI.pdf)
 - **(28/08-25)** Our paper on floe-floe collisions have been published in *Cold Regions Science and Technology*. Read the final version either [here](https://drive.proton.me/urls/Y40XK19S5G#30Sd4TE0Wxhw) or download it from [here](../files/CRSTpaper.pdf). 
 - **(08/07-25)** I presented on the [2025 basilisk user meeting in oxford](http://basilisk.fr/BGUM2025). You can download my slides [here](../files/BGUM25.pdf), and find the animations [here](https://drive.proton.me/urls/Y40XK19S5G#30Sd4TE0Wxhw).
 - **(08/11-24)** We performed a successful test of our buoy at Sognsvann. To see a map, [click here](../_portfolio/sognsvann.md)

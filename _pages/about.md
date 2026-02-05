@@ -13,6 +13,8 @@ primary research interests are numerical modelling, CFD and sensor electronics. 
 
 ## News and noteworthy events
 ---------
+- **(09/01-26)** Our article *OLB: An Open Lora Buoy for Coastal Water Measurements* on the design of the Open Lora Buoy is now out on arxiv. [Read it here](https://arxiv.org/abs/2601.05615) or [here](../files/OLB_arxiv.pdf).
+- **(10/11-25)** We performed a succesful first field deployment of the Open Lora Buoy (OLB). Here are some buoy trajectories ![](../images/fig8_SD_data_trajectories.png)
 - **(06/09-25)** I had the privilege of giving a keynote lecture at the [2025 world hydrocephalus congress](https://hydrocephalus-meeting.com/) in Toulouse, France. The talk was about the general idea behind mathemathical modelling, and how it can be applied to hydrocephalus. You can download my slides [here](../files/dreyerModellingFSI.pdf)
 - **(28/08-25)** Our paper on floe-floe collisions have been published in *Cold Regions Science and Technology*. Read the final version either [here](https://drive.proton.me/urls/Y40XK19S5G#30Sd4TE0Wxhw) or download it from [here](../files/CRSTpaper.pdf). 
 - **(08/07-25)** I presented on the [2025 basilisk user meeting in oxford](http://basilisk.fr/BGUM2025). You can download my slides [here](../files/BGUM25.pdf), and find the animations [here](https://drive.proton.me/urls/Y40XK19S5G#30Sd4TE0Wxhw).
